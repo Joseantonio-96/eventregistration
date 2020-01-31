@@ -17,8 +17,5 @@ public class EventRegistrationApplication {
   public String greeting(){
     return "Hello world!";
   }
- public String greeting(){
-    return “This is new“;
-  }
 
 }
